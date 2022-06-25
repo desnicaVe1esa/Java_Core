@@ -1,0 +1,27 @@
+
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(ë§¿…
+D
+java:S2140+")Use "java.util.Random.nextInt()" instead.(Êæèƒşÿÿÿÿ
+T
+java:S1854O">Remove this useless assignment to local variable "graphics2D".(İƒ×ì
+P
+java:S1161M":Add the "@Override" annotation above this method signature(³ıŸê
+E
+java:S1481O"/Remove this unused "graphics2D" local variable.(İƒ×ì
+D
+java:S2140Q")Use "java.util.Random.nextInt()" instead.(É°íÜúÿÿÿÿ
+D
+java:S2140R")Use "java.util.Random.nextInt()" instead.(˜›Ïëùÿÿÿÿ
+?
+java:S2140S")Use "java.util.Random.nextInt()" instead.(Áª½†
+?
+java:S2140W")Use "java.util.Random.nextInt()" instead.(çü¹ä
+D
+java:S2140X")Use "java.util.Random.nextInt()" instead.(ÿ†ğ‚şÿÿÿÿ
+?
+java:S2140Z")Use "java.util.Random.nextInt()" instead.(¿²ºş
+?
+java:S2140[")Use "java.util.Random.nextInt()" instead.(´Õ¼¢
+E
+java:S1128"*Remove this unused import 'gui.DrawPanel'.(òòİœøÿÿÿÿ
