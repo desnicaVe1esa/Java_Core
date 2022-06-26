@@ -1,0 +1,11 @@
+
+i
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¿•ÈÍúÿÿÿÿ
+f
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(«Şó°
+b
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(òá¡×8ú»×á˜0
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ÿÀ£8®ª“á˜0
+>
+java:S1068	"(Remove this unused "duck" private field.(òá¡×
