@@ -17,3 +17,9 @@ L
 src/gui/SimpleAnimation.java,5\a\5a5cb6fad3bc3a4d2a6285b2c965e312e1f2455d
 E
 src/gui/TextArea.java,7\1\71a6ea2eeed038e3ad91b442aa702b267b452fb1
+K
+src/serialization/Pond.java,f\e\fe74f19d404ddb633d1eb144270d57530cdfb79c
+7
+foo.ser,8\f\8f7590477fd1eb9b97782767122ea7c34f96ded4
+J
+src/serialization/Box.java,0\2\027d8a7d484dc0e5089be7cf270a8042c1c5803e
