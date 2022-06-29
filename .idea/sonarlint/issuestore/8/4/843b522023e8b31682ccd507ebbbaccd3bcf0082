@@ -1,0 +1,12 @@
+
+g
+java:S2095_"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(õéµ¨ûÿÿÿÿ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(Ï²æÿıÿÿÿÿ
+U
+java:S1128	":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+?
+java:S3398\")Move this method into "OpenMenuListener".(Ü†Ô°
+E
+java:S1068"*Remove this unused "answer" private field.(äïò´úÿÿÿÿ
