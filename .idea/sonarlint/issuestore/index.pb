@@ -63,5 +63,3 @@ w
 G.idea/sonarlint/issuestore/9/9/99fe0ab98766344da2647a592f0e182bed62bc01,e\f\ef2d09cf38bf63d0048d32b5377a033b7d2ec682
 Y
 )src/net_and_streams/SimpleClientChat.java,c\2\c21d882e1e22ab9d50e949dff73be45a2477c446
-Z
-*src/net_and_streams/DailyAdviceClient.java,0\0\0072813405f05d3236d7838f6a7fdb05f105112e
