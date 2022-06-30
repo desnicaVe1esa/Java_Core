@@ -41,3 +41,13 @@ U
 %src/serialization/QuizCardPlayer.java,8\4\843b522023e8b31682ccd507ebbbaccd3bcf0082
 V
 &src/serialization/QuizCardBuilder.java,b\5\b52f75733e308fab7493960095de8a3ff19af1b6
+w
+G.idea/sonarlint/issuestore/3/8/38592de320c59403c8768c48a904ae6da1086534,4\1\41224f6cd1c2dc6ff505ef85333404c0ad4b6fe9
+w
+G.idea/sonarlint/issuestore/4/1/41d82da89117b1774165e36bda87f252a6fc7f84,9\9\99fe0ab98766344da2647a592f0e182bed62bc01
+w
+G.idea/sonarlint/issuestore/6/2/62dad70abb4cd1b52741dda828e700ba1184f2d3,e\1\e17b48f05a071a9273d2ada408b23dfc969d8a04
+w
+G.idea/sonarlint/issuestore/b/a/ba28b66902cee73ac4875bf705c9ccc0fd7ec92e,7\b\7b7b8b93361c4360ab79d7c6719a9ff3c8a5c0ca
+w
+G.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c,6\e\6e9644ddf83ab52f39902ecdbfdf4118285ac40c
