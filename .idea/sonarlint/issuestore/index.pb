@@ -51,3 +51,17 @@ w
 G.idea/sonarlint/issuestore/b/a/ba28b66902cee73ac4875bf705c9ccc0fd7ec92e,7\b\7b7b8b93361c4360ab79d7c6719a9ff3c8a5c0ca
 w
 G.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c,6\e\6e9644ddf83ab52f39902ecdbfdf4118285ac40c
+w
+G.idea/sonarlint/issuestore/6/e/6e9644ddf83ab52f39902ecdbfdf4118285ac40c,4\2\4291a6ab95c696f29dcedea66516b99a0fd0f28a
+w
+G.idea/sonarlint/issuestore/7/b/7b7b8b93361c4360ab79d7c6719a9ff3c8a5c0ca,2\e\2e1f0a1ba2479e09854131ead324b74b078498e6
+w
+G.idea/sonarlint/issuestore/4/1/41224f6cd1c2dc6ff505ef85333404c0ad4b6fe9,e\0\e01031aaa903d33c4384c454bf24cdf48c97abcf
+w
+G.idea/sonarlint/issuestore/e/1/e17b48f05a071a9273d2ada408b23dfc969d8a04,d\6\d6883ffcfc4616f847b97da66994c26a5b26e81e
+w
+G.idea/sonarlint/issuestore/9/9/99fe0ab98766344da2647a592f0e182bed62bc01,e\f\ef2d09cf38bf63d0048d32b5377a033b7d2ec682
+Y
+)src/net_and_streams/SimpleClientChat.java,c\2\c21d882e1e22ab9d50e949dff73be45a2477c446
+Z
+*src/net_and_streams/DailyAdviceClient.java,0\0\0072813405f05d3236d7838f6a7fdb05f105112e
