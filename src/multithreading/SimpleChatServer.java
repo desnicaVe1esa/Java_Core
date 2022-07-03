@@ -1,4 +1,4 @@
-package net_and_streams;
+package multithreading;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

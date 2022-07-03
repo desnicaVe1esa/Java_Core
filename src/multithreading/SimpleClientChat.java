@@ -1,4 +1,4 @@
-package net_and_streams;
+package multithreading;
 
 import javax.swing.*;
 import java.awt.*;

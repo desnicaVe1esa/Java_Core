@@ -35,8 +35,6 @@ w
 G.idea/sonarlint/issuestore/8/f/8f7590477fd1eb9b97782767122ea7c34f96ded4,b\a\ba28b66902cee73ac4875bf705c9ccc0fd7ec92e
 \
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
-O
-src/serialization/QuizCard.java,3\8\38592de320c59403c8768c48a904ae6da1086534
 U
 %src/serialization/QuizCardPlayer.java,8\4\843b522023e8b31682ccd507ebbbaccd3bcf0082
 V
@@ -77,5 +75,3 @@ w
 G.idea/sonarlint/issuestore/e/0/e01031aaa903d33c4384c454bf24cdf48c97abcf,f\1\f109869ecbac3c86cc1c65862edbb53be228d887
 w
 G.idea/sonarlint/issuestore/e/f/ef2d09cf38bf63d0048d32b5377a033b7d2ec682,f\f\ff74b887f4a760c894c40da5cc3aef601ed5b5c3
-Y
-)src/net_and_streams/KirillAndYaromir.java,1\a\1a6ca4fcbbc18866c8cfa5431d7e5456371c9211
