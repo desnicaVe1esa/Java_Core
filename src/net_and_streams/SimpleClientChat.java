@@ -81,7 +81,7 @@ public class SimpleClientChat {
             String massage;
             try {
                 while ((massage = reader.readLine()) != null) {
-                    System.out.println("read" + massage);
+                    System.out.println("read " + massage);
                     incoming.append(massage + "\n");
                 }
             } catch (Exception e) {
