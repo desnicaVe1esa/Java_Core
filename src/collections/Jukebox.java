@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class Jukebox {
     ArrayList<String> songList = new ArrayList<>();
@@ -14,6 +15,8 @@ public class Jukebox {
 
     public void go() {
         getSongs();
+        System.out.println(songList);
+        Collections.sort(songList);
         System.out.println(songList);
     }
 
