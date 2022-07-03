@@ -33,6 +33,7 @@ public class Song implements Comparable<Song> {
     public String toString() {
         return "Song{" +
                 "title='" + title + '\'' +
+                "artist='" + artist + '\'' +
                 '}';
     }
 
