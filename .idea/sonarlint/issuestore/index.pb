@@ -40,8 +40,6 @@ U
 V
 &src/serialization/QuizCardBuilder.java,b\5\b52f75733e308fab7493960095de8a3ff19af1b6
 w
-G.idea/sonarlint/issuestore/3/8/38592de320c59403c8768c48a904ae6da1086534,4\1\41224f6cd1c2dc6ff505ef85333404c0ad4b6fe9
-w
 G.idea/sonarlint/issuestore/4/1/41d82da89117b1774165e36bda87f252a6fc7f84,9\9\99fe0ab98766344da2647a592f0e182bed62bc01
 w
 G.idea/sonarlint/issuestore/6/2/62dad70abb4cd1b52741dda828e700ba1184f2d3,e\1\e17b48f05a071a9273d2ada408b23dfc969d8a04
@@ -83,5 +81,3 @@ T
 $src/multithreading/TestRunnable.java,3\9\3944d7effd573fc7c3faf2e91fd70192173985d5
 X
 (src/multithreading/SimpleChatServer.java,d\6\d6730848f1862337a7efc7dfb65f5f160e158a89
-I
-src/collections/Song.java,d\a\da5b9f2cacbb2a548e2af81dec38639b2ef004a7
