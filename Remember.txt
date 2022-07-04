@@ -1,0 +1,7 @@
+Компиляция нескольких источников через терминал
+
+Компилируем
+javac -sourcepath ./src -d bin src/com/qwertovsky/helloworld/HelloWorld.java
+
+Запускаем
+java -classpath ./bin com.qwertovsky.helloworld.HelloWorld
