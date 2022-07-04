@@ -6,6 +6,7 @@ import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.HashSet;
 
 public class Jukebox {
     ArrayList<Song> songList = new ArrayList<Song>();
@@ -29,6 +30,9 @@ public class Jukebox {
         ArtistCompare artistCompare = new ArtistCompare();
         Collections.sort(songList, artistCompare);
         System.out.println(songList);
+        HashSet<Song> songSet = new HashSet<>();
+        songSet.addAll(songList);
+        System.out.println(songSet);
     }
 
     public void getSongs() {

@@ -59,12 +59,6 @@ w
 G.idea/sonarlint/issuestore/e/1/e17b48f05a071a9273d2ada408b23dfc969d8a04,d\6\d6883ffcfc4616f847b97da66994c26a5b26e81e
 w
 G.idea/sonarlint/issuestore/9/9/99fe0ab98766344da2647a592f0e182bed62bc01,e\f\ef2d09cf38bf63d0048d32b5377a033b7d2ec682
-U
-%src/net_and_streams/TestRunnable.java,6\1\61ed6135d2e5597794f2a9cc05a7058accbeb583
-S
-#src/net_and_streams/RunThreads.java,d\2\d223beb8ea56839b7a34df72bf6c3a0535aa5f94
-Z
-*src/net_and_streams/DailyAdviceClient.java,0\0\0072813405f05d3236d7838f6a7fdb05f105112e
 w
 G.idea/sonarlint/issuestore/2/e/2e1f0a1ba2479e09854131ead324b74b078498e6,4\8\48a31e8aca62f7e5f22769dca002254b76b8ae51
 w
@@ -75,3 +69,19 @@ w
 G.idea/sonarlint/issuestore/e/0/e01031aaa903d33c4384c454bf24cdf48c97abcf,f\1\f109869ecbac3c86cc1c65862edbb53be228d887
 w
 G.idea/sonarlint/issuestore/e/f/ef2d09cf38bf63d0048d32b5377a033b7d2ec682,f\f\ff74b887f4a760c894c40da5cc3aef601ed5b5c3
+O
+src/serialization/QuizCard.java,3\8\38592de320c59403c8768c48a904ae6da1086534
+X
+(src/multithreading/KirillAndYaromir.java,9\0\909dc3dde4d8f12b7cb3929900cdac3af9a1a29b
+R
+"src/multithreading/RunThreads.java,d\3\d32bde34a27cac37dc7c542a427b12f6fce7d5c4
+P
+ src/multithreading/TestSync.java,a\8\a8e0792f086bd075e4b5b0eb6edf6f8b337537a3
+X
+(src/multithreading/SimpleClientChat.java,1\2\12af5a0665f0f75ccc680133eed89a6e1b218fca
+T
+$src/multithreading/TestRunnable.java,3\9\3944d7effd573fc7c3faf2e91fd70192173985d5
+X
+(src/multithreading/SimpleChatServer.java,d\6\d6730848f1862337a7efc7dfb65f5f160e158a89
+I
+src/collections/Song.java,d\a\da5b9f2cacbb2a548e2af81dec38639b2ef004a7
