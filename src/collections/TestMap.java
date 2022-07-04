@@ -9,5 +9,6 @@ public class TestMap {
         hashMap.put("Чухан", 6);
         hashMap.put("Кто-то", 0);
         System.out.println(hashMap);
+        System.out.println(hashMap.get("Парень"));
     }
 }
