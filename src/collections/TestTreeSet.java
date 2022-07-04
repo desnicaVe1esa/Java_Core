@@ -2,7 +2,7 @@ package collections;
 
 import java.util.TreeSet;
 
-public class Test {
+public class TestTreeSet {
     public static void main(String[] args) {
         Book book = new Book("Книга");
         Book book1 = new Book("Еще книга");
