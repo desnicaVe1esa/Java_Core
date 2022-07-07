@@ -21,8 +21,6 @@ K
 src/serialization/Pond.java,f\e\fe74f19d404ddb633d1eb144270d57530cdfb79c
 7
 foo.ser,8\f\8f7590477fd1eb9b97782767122ea7c34f96ded4
-J
-src/serialization/Box.java,0\2\027d8a7d484dc0e5089be7cf270a8042c1c5803e
 8
 Pond.ser,6\2\62dad70abb4cd1b52741dda828e700ba1184f2d3
 8
@@ -33,8 +31,6 @@ P
  src/serialization/GameSaver.java,2\3\23c753978082a616baed8c5cbcb6d2671563a6c5
 w
 G.idea/sonarlint/issuestore/8/f/8f7590477fd1eb9b97782767122ea7c34f96ded4,b\a\ba28b66902cee73ac4875bf705c9ccc0fd7ec92e
-\
-,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
 U
 %src/serialization/QuizCardPlayer.java,8\4\843b522023e8b31682ccd507ebbbaccd3bcf0082
 V
@@ -51,8 +47,6 @@ w
 G.idea/sonarlint/issuestore/6/e/6e9644ddf83ab52f39902ecdbfdf4118285ac40c,4\2\4291a6ab95c696f29dcedea66516b99a0fd0f28a
 w
 G.idea/sonarlint/issuestore/7/b/7b7b8b93361c4360ab79d7c6719a9ff3c8a5c0ca,2\e\2e1f0a1ba2479e09854131ead324b74b078498e6
-w
-G.idea/sonarlint/issuestore/4/1/41224f6cd1c2dc6ff505ef85333404c0ad4b6fe9,e\0\e01031aaa903d33c4384c454bf24cdf48c97abcf
 w
 G.idea/sonarlint/issuestore/e/1/e17b48f05a071a9273d2ada408b23dfc969d8a04,d\6\d6883ffcfc4616f847b97da66994c26a5b26e81e
 w
@@ -81,3 +75,33 @@ T
 $src/multithreading/TestRunnable.java,3\9\3944d7effd573fc7c3faf2e91fd70192173985d5
 X
 (src/multithreading/SimpleChatServer.java,d\6\d6730848f1862337a7efc7dfb65f5f160e158a89
+Y
+)src/multithreading/DailyAdviceClient.java,4\9\4914c1832bf14bec496cf29d14b5ed7d99f7c877
+<
+SongList.txt,0\3\0387cca1093b267dbedb85b3fe726a2cfb0fc005
+<
+Remember.txt,3\e\3ede88d6db459842f61b9fc6914bb3863d397a88
+w
+G.idea/sonarlint/issuestore/3/8/38592de320c59403c8768c48a904ae6da1086534,4\1\41224f6cd1c2dc6ff505ef85333404c0ad4b6fe9
+I
+src/collections/Song.java,d\a\da5b9f2cacbb2a548e2af81dec38639b2ef004a7
+I
+src/collections/Book.java,9\3\93258e5448d8c754f94a14fb6b255b09ec0fdf0e
+P
+ src/collections/BookCompare.java,9\a\9a059a0b1fe5c8423e1585c620f2b67ff5fc1ad8
+L
+src/collections/Jukebox.java,9\1\91c396f9f01a68955201bfabb28893fff08da824
+P
+ src/collections/TestTreeSet.java,4\c\4c6b230c119fadac1ba0136dbe68601650f94dec
+L
+src/collections/TestMap.java,d\8\d8f9287ab45d066622c3d883c0e8d6768cfdd7a6
+K
+src/collections/Animal.java,f\9\f92f68ba9a11f3a3ac93ac32c06a41d03d396d5c
+H
+src/collections/Cat.java,5\b\5b07c1a045083cb0b1f6ee97b6a707df2432ec91
+H
+src/collections/Dog.java,5\3\531f13dfa34e0dcb010dc2890203588f1f35e069
+\
+,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
+Q
+!src/collections/TestGenerics.java,6\1\614fa6e12e99cbd5d27da8055e9bf5dea4273b0e

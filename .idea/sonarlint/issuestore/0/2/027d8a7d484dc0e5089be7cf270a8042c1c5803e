@@ -1,17 +1,0 @@
-
-d
-java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÙÓÀÈ
-f
-java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(«Şó°
-k
-java:S1450"URemove the "height" field and declare it as a local variable in the relevant methods.(ÅœÔ˜
-o
-java:S1450
-"TRemove the "width" field and declare it as a local variable in the relevant methods.(•õ¦òùÿÿÿÿ
-U
-java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
-D
-java:S1068
-")Remove this unused "width" private field.(•õ¦òùÿÿÿÿ
-@
-java:S1068"*Remove this unused "height" private field.(ÅœÔ˜

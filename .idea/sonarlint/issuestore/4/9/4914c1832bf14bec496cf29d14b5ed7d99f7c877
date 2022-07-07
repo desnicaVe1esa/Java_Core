@@ -1,0 +1,9 @@
+
+e
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ÂõÜ¢ÿÿÿÿÿ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8‹ï¨»œ0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(«’ìÓþÿÿÿÿ8§¢¢»œ0
+?
+java:S2140*")Use "java.util.Random.nextInt()" instead.(÷‹ÿ½

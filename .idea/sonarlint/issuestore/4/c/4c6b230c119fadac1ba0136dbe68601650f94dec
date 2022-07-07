@@ -1,0 +1,14 @@
+
+T
+java:S1854	"9Remove this useless assignment to local variable "book2".(öž¿Áûÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "book1".(ÆÖû»ùÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "book".(‚Çá¯þÿÿÿÿ
+D
+java:S1481")Remove this unused "book" local variable.(‚Çá¯þÿÿÿÿ
+E
+java:S1481"*Remove this unused "book1" local variable.(ÆÖû»ùÿÿÿÿ
+E
+java:S1481	"*Remove this unused "book2" local variable.(öž¿Áûÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰¢ÿ…ûÿÿÿÿ8¬Ü‡Áœ0
