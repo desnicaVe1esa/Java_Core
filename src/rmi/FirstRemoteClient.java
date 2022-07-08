@@ -10,7 +10,7 @@ public class FirstRemoteClient {
 
     public void go() {
         try {
-            FirstRemote service = (FirstRemote) Naming.lookup("rmi://127.0.0.1/Remote Hello");
+            FirstRemote service = (FirstRemote) Naming.lookup("rmi://127.0.0.1/FirstRemote");
             String s = service.sayHello();
             System.out.println(s);
         } catch (Exception e) {
